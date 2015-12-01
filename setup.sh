@@ -1,6 +1,6 @@
 #!/bin/bash
 #Copyright © 2015 Markell Samodurov. All rights reserved
-#Cataclysm DDA Installer v1.0(beta)
+#Cataclysm DDA Installer v 1.0(beta)
 clear
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd ${DIR}
