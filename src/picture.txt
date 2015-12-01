@@ -1,0 +1,21 @@
+        z       z
+       z         z
+      zz         zz
+      zz         zz
+     zzz         zzz
+     zzz  zzzzz  zzz
+     zzzzzzzzzzzzzzz
+     zzzzz     zzzzz
+   zzzzzzz     zzzzzzz
+   zzzzzzzzz zzzzzzzzz
+ zz     zzzz zzzz    zz
+zz    zz  z @ z  zz   zz
+z     zz   z z   zz    z
+z     zz   zzz   zz    z
+       zz  zzz  zz
+       zzz zzz zzz
+        zzzzzzzzz
+           zzz
+ z       zzzzzz       z
+  z     zzzzzzzz     z
+   zzzzzzz    zzzzzzz
